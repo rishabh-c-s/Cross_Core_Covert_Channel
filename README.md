@@ -1,2 +1,2 @@
-# CS6630_deaddrop
-Dead Drop class project for CS 6630
+# CS6630_CrossCoreCovertChannel
+Class project for CS6630 - Secure Processor Microarchitecture course
